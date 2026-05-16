@@ -3,7 +3,7 @@ Maternal Health Risk Executive Dashboard
 An interactive corporate-grade business intelligence dashboard built to analyze clinical vitals and risk stratification across 1,014 expectant mothers.
 
 ## Live Interactive Demo
-[Click here to view the live interactive dashboard](https://myhierah16.github.io/Maternal-Health-Risk-Executive-Dashboard/)
+https://myhierah16.github.io/Maternal-Health-Risk-Executive-Dashboard/
 
 ## Key Insights & Metrics
 * **Total Patients Tracked:** 1,014
