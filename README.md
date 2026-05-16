@@ -4,7 +4,6 @@ An interactive corporate-grade business intelligence dashboard built to analyze 
 
 ## Live Interactive Demo
 https://myhierah16.github.io/Maternal-Health-Risk-Executive-Dashboard/
-file:///C:/Users/User/Downloads/Maternal_Health_Executive_Dashboard.html
 
 ## Key Insights & Metrics
 * **Total Patients Tracked:** 1,014
